@@ -1,6 +1,7 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
+
 Exercise 1:
 First and other babies are born relatively near each other in terms of time frame. The most common week to be born in is the 39th week. The left tail is more gradual to grow, whereas the right tail has a steep drop.
 
